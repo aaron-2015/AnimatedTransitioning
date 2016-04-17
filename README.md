@@ -1,0 +1,2 @@
+# AnimatedTransitioning
+一个结合自定义转场动画,UIBezierPath,CAShapeLayer,CABasicAnimation,UIPercentDrivenInteractiveTransition的动画.
